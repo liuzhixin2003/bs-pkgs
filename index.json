@@ -1,6 +1,6 @@
 [{"type":"directory","name": ".","contents":[
-    {"type":"directory","name":"action","contents":[
-      {"type":"file","name":"wb.js"}
+    {"type":"directory","name":"test","contents":[
+      {"type":"file","name":"test.js"}
     ]},
     {"type":"directory","name":"game","contents":[
       {"type":"file","name":"guess_number.js"},
