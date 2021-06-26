@@ -1,5 +1,5 @@
 [{"type":"directory","name": ".","contents":[
-    {"type":"directory","name":"test","contents":[
+    {"type":"directory","name":"tet","contents":[
       {"type":"file","name":"test.js"}
     ]},
     {"type":"directory","name":"game","contents":[
